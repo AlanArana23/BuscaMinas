@@ -1,2 +1,2 @@
 # BuscaMinas
-Juego de Buscaminas en Swift
+Juego de Buscaminas/Minesweeper Game
